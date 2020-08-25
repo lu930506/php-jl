@@ -1,0 +1,10 @@
+{
+    "name": "php-jl/where-search",
+    "description": "where conditions",
+    "autoload": {
+      "psr-4": {
+        "WhereSearch\\": "src"
+      }
+    },
+    "require": {}
+}
